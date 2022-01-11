@@ -15,6 +15,8 @@ public class Pathfinding : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        // int distanceToPlayer = (use a vector 3 function to calculate distance)
+        // if (distance < blah) { do something }
+        // else { do something else }
     }
 }
