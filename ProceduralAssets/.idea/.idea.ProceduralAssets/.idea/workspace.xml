@@ -19,7 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3887a73-f969-4fd1-99e7-f64d6c478e1c" name="Default Changelist" comment="" />
+    <list default="true" id="a3887a73-f969-4fd1-99e7-f64d6c478e1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Procedural_URP/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Procedural_URP/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Procedural_URP/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../Procedural_URP/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Procedural_URP/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Procedural_URP/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Procedural_URP/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Procedural_URP/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Procedural_URP/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Procedural_URP/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Procedural_URP/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../Procedural_URP/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Procedural_URP/Library/StateCache/MainStageHierarchy/8f/8fd65426490f636435c901d65ce7ed24.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Procedural_URP/Library/StateCache/MainStageHierarchy/8f/8fd65426490f636435c901d65ce7ed24.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Procedural_URP/Library/StateCache/SceneView/8b/8b0d1387a24a688f32df764794220fab.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Procedural_URP/Library/StateCache/SceneView/8b/8b0d1387a24a688f32df764794220fab.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Procedural_URP/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Procedural_URP/Logs/AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Procedural_URP/Temp/Assembly-CSharp.dll.hash" beforeDir="false" afterPath="$PROJECT_DIR$/../Procedural_URP/Temp/Assembly-CSharp.dll.hash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Procedural_URP/Temp/CompilationLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Procedural_URP/Temp/CompilationLog.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641869811104</updated>
-      <workItem from="1641869816599" duration="1404000" />
+      <workItem from="1641869816599" duration="1897000" />
     </task>
     <servers />
   </component>
