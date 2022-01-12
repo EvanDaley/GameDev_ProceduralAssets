@@ -749,11 +749,25 @@
  <Reference Include="Unity.XR.Oculus">
  <HintPath>/Users/evandaley/Documents/Sites/Unity/GameDev_ProceduralAssets/Procedural_URP/Library/ScriptAssemblies/Unity.XR.Oculus.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.VisualEffectGraph.Editor">
+ <HintPath>/Users/evandaley/Documents/Sites/Unity/GameDev_ProceduralAssets/Procedural_URP/Library/ScriptAssemblies/Unity.VisualEffectGraph.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.VisualEffectGraph.Runtime">
+ <HintPath>/Users/evandaley/Documents/Sites/Unity/GameDev_ProceduralAssets/Procedural_URP/Library/ScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{cfb1d30c-5a54-caba-0a53-036369978396}</Project>
       <Name>Assembly-CSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="VFXGraph.OutputEventHandlers.csproj">
+      <Project>{f3bbe4f5-6d12-d85e-51cc-700a2b716622}</Project>
+      <Name>VFXGraph.OutputEventHandlers</Name>
+    </ProjectReference>
+    <ProjectReference Include="VFXGraph.OutputEventHandlers.Editor.csproj">
+      <Project>{fb2038f8-65e4-f1dc-eb63-e1dc6e718af0}</Project>
+      <Name>VFXGraph.OutputEventHandlers.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
