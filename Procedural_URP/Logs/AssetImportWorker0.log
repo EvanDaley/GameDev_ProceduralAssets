@@ -1539,3 +1539,11 @@ Received Import Request.
 Start importing Assets/Samples/Visual Effect Graph/10.7.0/VisualEffectGraph Additions/VFX/Sparks.vfx using Guid(1194657162895cf41a278fe3576dbb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b0dc9c966925b0eec124610a1f8ce9') in 0.005835 seconds 
   Import took 0.012597 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 797.125810 seconds.
+  path: Assets/Materials/Shader/ShaderTest1.shadergraph
+  artifactKey: Guid(424c4573a496e4117b6f0e7aa0ddfd33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Shader/ShaderTest1.shadergraph using Guid(424c4573a496e4117b6f0e7aa0ddfd33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65adf7aec29fcb0f3cb96f2425a0aa33') in 0.006455 seconds 
+  Import took 0.017792 seconds .
+
